@@ -124,3 +124,21 @@ Untracked files:
 no changes added to commit
 (but somehow production is still running)
 ```
+
+<br/>
+
+---
+
+## `> github_activity`
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoAliBaraty/MoAliBaraty/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoAliBaraty/MoAliBaraty/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MoAliBaraty/MoAliBaraty/gh-pages/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
