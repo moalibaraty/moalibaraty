@@ -128,7 +128,6 @@ no changes added to commit
 <br/>
 
 ---
-
 ## `> github_activity`
 
 <div align="center">
@@ -171,8 +170,6 @@ no changes added to commit
 
 <div align="center">
 
-### FIND ME IN THE WILD
-
 <a href="mailto:ali.baraty1996@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send_Message-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
 </a>
@@ -201,9 +198,6 @@ mohammadali@github:~$ _
 
 <div align="center">
 
-**Long after my name is forgotten, my work will still be running.**
-
 <sub>Designed, engineered & occasionally broken by MohammadAli Baraty.</sub>
 
 </div>
-
