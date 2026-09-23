@@ -28,39 +28,6 @@ I learn technologies to build projects worth running.
 
 <br/>
 
-## `> currently_building`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 EllenY
-
-**Personal AI Operating System**
-
-An evolving AI system designed around long-term memory, specialized skills,
-tools, projects, decisions and personal context.
-
-`AI Agents` `Django` `DRF` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ MoAliz
-
-**Technology & AI Ecosystem**
-
-Building products at the intersection of software engineering,
-commerce, automation and artificial intelligence.
-
-`Backend` `AI` `Automation` `Commerce`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ---
 
 ## `> tech_arsenal`
@@ -146,25 +113,6 @@ no changes added to commit
 
 ---
 
-## `> telemetry`
-
-<div align="center">
-
-### SYSTEM // LIVE METRICS
-
-<img height="180em" src="./profile/stats.svg" alt="MohammadAli's GitHub Stats" />
-
-<img height="180em" src="./profile/top-langs.svg" alt="MohammadAli's Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=MoAliBaraty&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
----
 
 ## `> establish_connection`
 
