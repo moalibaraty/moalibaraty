@@ -142,3 +142,23 @@ no changes added to commit
 </picture>
 
 </div>
+
+<br/>
+
+---
+
+## `> telemetry`
+
+<div align="center">
+
+### SYSTEM // LIVE METRICS
+
+<img height="180em" src="./profile/stats.svg" alt="MohammadAli's GitHub Stats" />
+
+<img height="180em" src="./profile/top-langs.svg" alt="MohammadAli's Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=MoAliBaraty&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
