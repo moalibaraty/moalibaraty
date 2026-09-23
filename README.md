@@ -162,3 +162,48 @@ no changes added to commit
 <img src="https://streak-stats.demolab.com?user=MoAliBaraty&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+<br/>
+
+---
+
+## `> establish_connection`
+
+<div align="center">
+
+### FIND ME IN THE WILD
+
+<a href="mailto:ali.baraty1996@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send_Message-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
+</a>
+
+</div>
+
+<br/>
+
+```text
+mohammadali@github:~$ ./future.sh
+
+[ OK ] Backend systems online
+[ OK ] AI experiments running
+[ OK ] EllenY evolving
+[ OK ] MoAliz under construction
+[ .. ] Bigger things loading...
+
+mohammadali@github:~$ echo $MISSION
+
+Build things worth leaving behind.
+
+mohammadali@github:~$ _
+```
+
+<br/>
+
+<div align="center">
+
+**Long after my name is forgotten, my work will still be running.**
+
+<sub>Designed, engineered & occasionally broken by MohammadAli Baraty.</sub>
+
+</div>
+
